@@ -1,0 +1,17 @@
+C:\Users\MAHMOUD-PC\source\repos\Company.services\bin\Debug\net8.0\Company.services.deps.json
+C:\Users\MAHMOUD-PC\source\repos\Company.services\bin\Debug\net8.0\Company.services.dll
+C:\Users\MAHMOUD-PC\source\repos\Company.services\bin\Debug\net8.0\Company.services.pdb
+C:\Users\MAHMOUD-PC\source\repos\Company.services\bin\Debug\net8.0\Company.Data.dll
+C:\Users\MAHMOUD-PC\source\repos\Company.services\bin\Debug\net8.0\Company.repository.dll
+C:\Users\MAHMOUD-PC\source\repos\Company.services\bin\Debug\net8.0\Company.repository.pdb
+C:\Users\MAHMOUD-PC\source\repos\Company.services\bin\Debug\net8.0\Company.Data.pdb
+C:\Users\MAHMOUD-PC\source\repos\Company.services\obj\Debug\net8.0\Company.services.csproj.AssemblyReference.cache
+C:\Users\MAHMOUD-PC\source\repos\Company.services\obj\Debug\net8.0\Company.services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAHMOUD-PC\source\repos\Company.services\obj\Debug\net8.0\Company.services.AssemblyInfoInputs.cache
+C:\Users\MAHMOUD-PC\source\repos\Company.services\obj\Debug\net8.0\Company.services.AssemblyInfo.cs
+C:\Users\MAHMOUD-PC\source\repos\Company.services\obj\Debug\net8.0\Company.services.csproj.CoreCompileInputs.cache
+C:\Users\MAHMOUD-PC\source\repos\Company.services\obj\Debug\net8.0\Company..F263C3A4.Up2Date
+C:\Users\MAHMOUD-PC\source\repos\Company.services\obj\Debug\net8.0\Company.services.dll
+C:\Users\MAHMOUD-PC\source\repos\Company.services\obj\Debug\net8.0\refint\Company.services.dll
+C:\Users\MAHMOUD-PC\source\repos\Company.services\obj\Debug\net8.0\Company.services.pdb
+C:\Users\MAHMOUD-PC\source\repos\Company.services\obj\Debug\net8.0\ref\Company.services.dll
